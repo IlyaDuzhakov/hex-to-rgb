@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/hex-to-rgb/static/css/main.965e3b11.css",
+    "main.js": "/hex-to-rgb/static/js/main.286e5159.js",
+    "index.html": "/hex-to-rgb/index.html",
+    "main.965e3b11.css.map": "/hex-to-rgb/static/css/main.965e3b11.css.map",
+    "main.286e5159.js.map": "/hex-to-rgb/static/js/main.286e5159.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.965e3b11.css",
+    "static/js/main.286e5159.js"
+  ]
+}
